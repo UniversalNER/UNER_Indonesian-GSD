@@ -1,0 +1,19 @@
+{
+  "dataset_id": "id_gsd-ud-dev",
+  "num_documents": 19,
+  "num_annotated_documents": 19,
+  "num_annotations": 994,
+  "num_annotators": 1,
+  "annotator_ids": [
+    "giulia.fiumara91@gmail.com"
+  ],
+  "num_docs_with_multiple_annotators": 0,
+  "num_sentences": 559,
+  "num_tokens": 12661,
+  "label_distribution": {
+    "LOC": 442,
+    "PER": 350,
+    "ORG": 183
+  },
+  "pairwise_f1": {}
+}

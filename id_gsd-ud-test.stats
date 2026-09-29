@@ -1,0 +1,19 @@
+{
+  "dataset_id": "id_gsd-ud-test",
+  "num_documents": 19,
+  "num_annotated_documents": 19,
+  "num_annotations": 1012,
+  "num_annotators": 1,
+  "annotator_ids": [
+    "giulia.fiumara91@gmail.com"
+  ],
+  "num_docs_with_multiple_annotators": 0,
+  "num_sentences": 557,
+  "num_tokens": 11756,
+  "label_distribution": {
+    "PER": 359,
+    "LOC": 459,
+    "ORG": 175
+  },
+  "pairwise_f1": {}
+}

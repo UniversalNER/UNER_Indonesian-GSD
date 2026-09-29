@@ -1,0 +1,19 @@
+{
+  "dataset_id": "id_gsd-ud-train",
+  "num_documents": 150,
+  "num_annotated_documents": 150,
+  "num_annotations": 7996,
+  "num_annotators": 1,
+  "annotator_ids": [
+    "giulia.fiumara91@gmail.com"
+  ],
+  "num_docs_with_multiple_annotators": 0,
+  "num_sentences": 4482,
+  "num_tokens": 97602,
+  "label_distribution": {
+    "LOC": 3902,
+    "PER": 2417,
+    "ORG": 1527
+  },
+  "pairwise_f1": {}
+}
